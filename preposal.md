@@ -2,7 +2,7 @@
 
 ## What idea(s) do you have for your final project?
 
-I plan to create a robot with a Raspberry Pi that follows a line on a piece of paper
+I plan to create a robot with a Raspberry Pi that follows a line on a piece of paper -- https://projects.raspberrypi.org/en/projects/rpi-python-line-following
 
 ## If you plan to collaborate with one or two classmates, what are their names?
 
